@@ -1,4 +1,6 @@
-# pzp
+# pzp-server
+采用netty 制作的p2p聊天服务器 通过websocket+udp进行数据通信
+有问题 709602447@qq.com
 ## 经行用户注册注册
 数据格式：
 ```json
